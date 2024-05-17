@@ -16,10 +16,10 @@ I'm pukusyou, a student aspiring to be an engineer who loves making things, prim
 
 ---
 
-### 🌟 Projects
+### 🌟 Products
 
-- [EFT Item Hub](https://github.com/pukusyou/eftItemHub_react): EscapeFromTarkovの攻略アプリ
-- [レコカレ](https://github.com/pukusyou/salary-pwa): バーの給与記録・計算アプリ
+- [EFT Item Hub](https://github.com/pukusyou/eftItemHub_react) | [Webページ](https://pukusyou.com/eft): EscapeFromTarkovの攻略アプリ
+- [レコカレ](https://github.com/pukusyou/salary-pwa) | [Webページ](https://recocale.pukusyou.com/): バーの給与記録・計算アプリ
 
 ---
 
