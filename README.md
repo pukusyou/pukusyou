@@ -1,16 +1,39 @@
-### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,eclipse,electron,flask,gcp)](https://skillicons.dev)
-<!--
-**pukusyou/pukusyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm pukusyou, a student aspiring to be an engineer who loves making things, primarily focusing on creating web applications.
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pukusyou&layout=donut)](https://github.com/pukusyou/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Skills
+
+![My Skills](https://skillicons.dev/icons?i=java,py,react,js,ts,nginx,html,css,docker,electron,flask,gcp,linux,npm)
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pukusyou&show_icons=true&theme=radical)
+
+---
+
+### 🌟 Projects
+
+- [EFT Item Hub](https://github.com/pukusyou/eftItemHub_react): EscapeFromTarkovの攻略アプリ
+- [レコカレ](https://github.com/pukusyou/salary-pwa): バーの給与記録・計算アプリ
+
+---
+
+### 🌐 Portfolio
+
+- [ポートフォリオ](https://www.resume.id/pukusyou)
+
+---
+### 📫 Contact Me
+
+[![discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/743693835019878523)
+[![x](https://skillicons.dev/icons?i=twitter)](https://twitter.com/SYTd_pukusyou)
+[![mail](https://skillicons.dev/icons?i=gmail)](mailto:pukusho@gmail.com)
+
+
+---
+
