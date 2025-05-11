@@ -22,12 +22,6 @@ I'm pukusyou, a student aspiring to be an engineer who loves making things, prim
 - [レコカレ](https://github.com/pukusyou/salary-pwa) | [Webページ](https://recocale.pukusyou.com/): バーの給与記録・計算アプリ
 
 ---
-
-### 🌐 Portfolio
-
-- [ポートフォリオ](https://www.resume.id/pukusyou)
-
----
 ### 📫 Contact Me
 
 [![discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/743693835019878523)
